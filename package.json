@@ -1,12 +1,12 @@
 {
   "name": "ejercicio-nodejs",
   "version": "1.0.0",
-  "description": "",
+  "description": "Programa que simula un chat, usando Node.js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Cristhian Alejandro Larico Quisbert",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.3",
